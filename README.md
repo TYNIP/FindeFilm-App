@@ -16,7 +16,7 @@ displayed one. The app uses the Movie Database - TMBD API.
 7) Repeat the process to discover more movies based on your preferences.
 
 ## Limitations
-This app is for practical and educational puposes, it may not have the same features and improvements as other movie discover apps may have.
+This app is for practical and educational puposes, it may not have the same features and improvements as other movie discover apps.
 
 ## Getting Started
 1) Clone the repository to your local machine.
